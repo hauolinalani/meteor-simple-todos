@@ -125,4 +125,11 @@ header {
 .tasks > li > button {
   justify-self: flex-end;
   background-color: #ff3046;
+}.filter {
+   display: flex;
+   justify-content: center;
+ }
+
+.filter > button {
+  background-color: #62807e;
 }
